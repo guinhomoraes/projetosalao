@@ -30,5 +30,15 @@
 		{
 
 		}
+
+		public function findAll()
+		{
+
+		}
+
+		public function finById()
+		{
+
+		}
 	}
 ?>
