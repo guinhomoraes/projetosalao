@@ -12,6 +12,7 @@
 		public $status_atendimento;
 		public $forma_pagamento;
 
+
 		public function save($atendimento)
 		{
 			$conexao = new Conexao();
